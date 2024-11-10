@@ -3,4 +3,5 @@ This project is a simulation of the classic Five Card Draw poker game. It allows
 
 You'll learn how to simulate a win in the Five Card Draw Game, so you can check and make changes to the code. Just enjoy :)
 
-![image](https://github.com/user-attachments/assets/51a42f76-3ebe-4b6e-ac23-b1e85ee6b7a8)
+![image](https://github.com/user-attachments/assets/26b1dc9f-f7de-4c25-8c3b-b6596ee0857c)
+
